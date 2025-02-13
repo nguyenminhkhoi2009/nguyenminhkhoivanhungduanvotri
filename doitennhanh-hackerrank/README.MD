@@ -1,8 +1,10 @@
-# Đổi tên file và đóng gói chúng vào file zip
-# Phục vụ cho Hackerrank
+# Tổng quan
+doitennhanh-hackerrank
 **Version: 0.1**
 
 Chương trình này được viết bởi **nguyenminhkhoi.io.vn**. Mục đích của chương trình là đổi tên các file `.inp` và `.out` trong thư mục nguồn và các thư mục con của nó, sau đó đóng gói các file đã đổi tên vào file zip `TEST.zip`.
+Để chạy chương trình thì bạn hãy cài đặt python cùng với các thư viện cần thiết (ở phần chú thích), bạn có thể chạy chương trình thông qua 2 cách là mở file trực tiếp hoặc chạy qua terminal.
+**Lưu ý:** chương trình mới chỉ được thử nghiệm trên Windows 11.
 
 ## Chức năng chính
 
