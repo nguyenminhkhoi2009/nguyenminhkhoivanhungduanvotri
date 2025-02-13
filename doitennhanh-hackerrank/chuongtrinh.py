@@ -1,5 +1,6 @@
 # Code bởi nguyenminhkhoi.io.vn
 # Version: 0.1
+# Phục vụ cho Hackerrank
 # Chương trình đổi tên các file .inp và .out, sau đó đóng gói chúng vào file zip TEST.zip
 # Chức năng chính:
 # 1. Liệt kê các file trong thư mục gốc
